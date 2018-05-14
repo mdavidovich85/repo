@@ -3,4 +3,4 @@ Simple calculator for C++ that takes and string input for simple math; this was 
 
 Sample output:
 
-image
+![alt text](https://github.com/mdavidovich85/simpleSeePlusPlusCalc/blob/master/images/sampleOutPut.PNG?raw=true)
